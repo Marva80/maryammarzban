@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maryam Marzban</h1>
 <h3 align="center">Junior QA & Dev with a strong foundation in Python, React and agile workflows</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Marva80](https://github.com/maryam-marzban-it)
+- 👨‍💻 All of my projects are available at [https://github.com/maryam-marzban-it](https://github.com/maryam-marzban-it)
 
 - 📫 How to reach me **maryam.marzban@yh.nackademin.se**
 
